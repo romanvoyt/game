@@ -1,0 +1,5350 @@
+fileFormatVersion: 2
+guid: bfda54ea008e8b2499ad8c389e7cf021
+timeCreated: 1495307603
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_0
+    21300002: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_1
+    21300004: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_2
+    21300006: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_3
+    21300008: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_4
+    21300010: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_5
+    21300012: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_6
+    21300014: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_7
+    21300016: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_8
+    21300018: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_9
+    21300020: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_10
+    21300022: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_11
+    21300024: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_12
+    21300026: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_13
+    21300028: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_14
+    21300030: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_15
+    21300032: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_16
+    21300034: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_17
+    21300036: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_18
+    21300038: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_19
+    21300040: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_20
+    21300042: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_21
+    21300044: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_22
+    21300046: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_23
+    21300048: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_24
+    21300050: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_25
+    21300052: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_26
+    21300054: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_27
+    21300056: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_28
+    21300058: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_29
+    21300060: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_30
+    21300062: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_31
+    21300064: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_32
+    21300066: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_33
+    21300068: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_34
+    21300070: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_35
+    21300072: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_36
+    21300074: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_37
+    21300076: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_38
+    21300078: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_39
+    21300080: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_40
+    21300082: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_41
+    21300084: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_42
+    21300086: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_43
+    21300088: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_44
+    21300090: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_45
+    21300092: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_46
+    21300094: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_47
+    21300096: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_48
+    21300098: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_49
+    21300100: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_50
+    21300102: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_51
+    21300104: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_52
+    21300106: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_53
+    21300108: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_54
+    21300110: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_55
+    21300112: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_56
+    21300114: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_57
+    21300116: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_58
+    21300118: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_59
+    21300120: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_60
+    21300122: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_61
+    21300124: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_62
+    21300126: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_63
+    21300128: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_64
+    21300130: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_65
+    21300132: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_66
+    21300134: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_67
+    21300136: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_68
+    21300138: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_69
+    21300140: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_70
+    21300142: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_71
+    21300144: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_72
+    21300146: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_73
+    21300148: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_74
+    21300150: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_75
+    21300152: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_76
+    21300154: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_77
+    21300156: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_78
+    21300158: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_79
+    21300160: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_80
+    21300162: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_81
+    21300164: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_82
+    21300166: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_83
+    21300168: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_84
+    21300170: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_85
+    21300172: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_86
+    21300174: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_87
+    21300176: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_88
+    21300178: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_89
+    21300180: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_90
+    21300182: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_91
+    21300184: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_92
+    21300186: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_93
+    21300188: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_94
+    21300190: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_95
+    21300192: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_96
+    21300194: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_97
+    21300196: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_98
+    21300198: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_99
+    21300200: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_100
+    21300202: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_101
+    21300204: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_102
+    21300206: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_103
+    21300208: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_104
+    21300210: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_105
+    21300212: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_106
+    21300214: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_107
+    21300216: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_108
+    21300218: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_109
+    21300220: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_110
+    21300222: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_111
+    21300224: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_112
+    21300226: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_113
+    21300228: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_114
+    21300230: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_115
+    21300232: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_116
+    21300234: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_117
+    21300236: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_118
+    21300238: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_119
+    21300240: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_120
+    21300242: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_121
+    21300244: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_122
+    21300246: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_123
+    21300248: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_124
+    21300250: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_125
+    21300252: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_126
+    21300254: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_127
+    21300256: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_128
+    21300258: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_129
+    21300260: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_130
+    21300262: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_131
+    21300264: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_132
+    21300266: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_133
+    21300268: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_134
+    21300270: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_135
+    21300272: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_136
+    21300274: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_137
+    21300276: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_138
+    21300278: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_139
+    21300280: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_140
+    21300282: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_141
+    21300284: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_142
+    21300286: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_143
+    21300288: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_144
+    21300290: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_145
+    21300292: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_146
+    21300294: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_147
+    21300296: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_148
+    21300298: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_149
+    21300300: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_150
+    21300302: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_151
+    21300304: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_152
+    21300306: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_153
+    21300308: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_154
+    21300310: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_155
+    21300312: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_156
+    21300314: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_157
+    21300316: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_158
+    21300318: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_159
+    21300320: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_160
+    21300322: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_161
+    21300324: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_162
+    21300326: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_163
+    21300328: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_164
+    21300330: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_165
+    21300332: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_166
+    21300334: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_167
+    21300336: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_168
+    21300338: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_169
+    21300340: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_170
+    21300342: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_171
+    21300344: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_172
+    21300346: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_173
+    21300348: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_174
+    21300350: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_175
+    21300352: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_176
+    21300354: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_177
+    21300356: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_178
+    21300358: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_179
+    21300360: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_180
+    21300362: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_181
+    21300364: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_182
+    21300366: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_183
+    21300368: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_184
+    21300370: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_185
+    21300372: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_186
+    21300374: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_187
+    21300376: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_188
+    21300378: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_189
+    21300380: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_190
+    21300382: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_191
+    21300384: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_192
+    21300386: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_193
+    21300388: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_194
+    21300390: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_195
+    21300392: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_196
+    21300394: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_197
+    21300396: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_198
+    21300398: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_199
+    21300400: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_200
+    21300402: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_201
+    21300404: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_202
+    21300406: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_203
+    21300408: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_204
+    21300410: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_205
+    21300412: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_206
+    21300414: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_207
+    21300416: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_208
+    21300418: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_209
+    21300420: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_210
+    21300422: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_211
+    21300424: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_212
+    21300426: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_213
+    21300428: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_214
+    21300430: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_215
+    21300432: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_216
+    21300434: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_217
+    21300436: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_218
+    21300438: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_219
+    21300440: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_220
+    21300442: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_221
+    21300444: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_222
+    21300446: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_223
+    21300448: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_224
+    21300450: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_225
+    21300452: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_226
+    21300454: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_227
+    21300456: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_228
+    21300458: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_229
+    21300460: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_230
+    21300462: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_231
+    21300464: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_232
+    21300466: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_233
+    21300468: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_234
+    21300470: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_235
+    21300472: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_236
+    21300474: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_237
+    21300476: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_238
+    21300478: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_239
+    21300480: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_240
+    21300482: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_241
+    21300484: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_242
+    21300486: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_243
+    21300488: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_244
+    21300490: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_245
+    21300492: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_246
+    21300494: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_247
+    21300496: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_248
+    21300498: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_249
+    21300500: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_250
+    21300502: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_251
+    21300504: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_252
+    21300506: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_253
+    21300508: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_254
+    21300510: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_255
+    21300512: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_256
+    21300514: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_257
+    21300516: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_258
+    21300518: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_259
+    21300520: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_260
+    21300522: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_261
+    21300524: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_262
+    21300526: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_263
+    21300528: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_264
+    21300530: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_265
+    21300532: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_266
+    21300534: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_267
+    21300536: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_268
+    21300538: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_269
+    21300540: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_270
+    21300542: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_271
+    21300544: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_272
+    21300546: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_273
+    21300548: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_274
+    21300550: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_275
+    21300552: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_276
+    21300554: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_277
+    21300556: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_278
+    21300558: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_279
+    21300560: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_280
+    21300562: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_281
+    21300564: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_282
+    21300566: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_283
+    21300568: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_284
+    21300570: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_285
+    21300572: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_286
+    21300574: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_287
+    21300576: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_288
+    21300578: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_289
+    21300580: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_290
+    21300582: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_291
+    21300584: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_292
+    21300586: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_293
+    21300588: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_294
+    21300590: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_295
+    21300592: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_296
+    21300594: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_297
+    21300596: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_298
+    21300598: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_299
+    21300600: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_300
+    21300602: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_301
+    21300604: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_302
+    21300606: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_303
+    21300608: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_304
+    21300610: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_305
+    21300612: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_306
+    21300614: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_307
+    21300616: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_308
+    21300618: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_309
+    21300620: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_310
+    21300622: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_311
+    21300624: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_312
+    21300626: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_313
+    21300628: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_314
+    21300630: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_315
+    21300632: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_316
+    21300634: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_317
+    21300636: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_318
+    21300638: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_319
+    21300640: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_320
+    21300642: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_321
+    21300644: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_322
+    21300646: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_323
+    21300648: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_324
+    21300650: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_325
+    21300652: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_326
+    21300654: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_327
+    21300656: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_328
+    21300658: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_329
+    21300660: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_330
+    21300662: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_331
+    21300664: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_332
+    21300666: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_333
+    21300668: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_334
+    21300670: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_335
+    21300672: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_336
+    21300674: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_337
+    21300676: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_338
+    21300678: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_339
+    21300680: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_340
+    21300682: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_341
+    21300684: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_342
+    21300686: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_343
+    21300688: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_344
+    21300690: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_345
+    21300692: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_346
+    21300694: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_347
+    21300696: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_348
+    21300698: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_349
+    21300700: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_350
+    21300702: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_351
+    21300704: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_352
+    21300706: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_353
+    21300708: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_354
+    21300710: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_355
+    21300712: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_356
+    21300714: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_357
+    21300716: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_358
+    21300718: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_359
+    21300720: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_360
+    21300722: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_361
+    21300724: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_362
+    21300726: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_363
+    21300728: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_364
+    21300730: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_365
+    21300732: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_366
+    21300734: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_367
+    21300736: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_368
+    21300738: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_369
+    21300740: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_370
+    21300742: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_371
+    21300744: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_372
+    21300746: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_373
+    21300748: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_374
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 829
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 832
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 824
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 835
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 832
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 823
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 815
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 818
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 823
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_9
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 826
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_10
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 825
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 826
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 828
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_13
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 826
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_14
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 826
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_15
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 837
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 769
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 767
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 763
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 767
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 764
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 764
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_22
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 764
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_23
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 765
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_24
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 764
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_25
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 762
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_26
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 764
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 764
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_28
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 763
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_29
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 763
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_30
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 764
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_31
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 763
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_32
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 776
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 708
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 702
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 700
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_36
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 700
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_37
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 698
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 712
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_39
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 715
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_40
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 715
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_41
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 715
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_42
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 712
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_43
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 713
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_44
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 713
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_45
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 713
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_46
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 713
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_47
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 713
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_48
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 670
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_49
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 673
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_50
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 675
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_51
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 675
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_52
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 675
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_53
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 675
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_54
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 673
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_55
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 670
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_56
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 670
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_57
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 670
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 647
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 637
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_60
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 630
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_61
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 640
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_62
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 639
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_63
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 631
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_64
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 631
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_65
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 631
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_66
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 631
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_67
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 631
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_68
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 636
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_69
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 636
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_70
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 636
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_71
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 636
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_72
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 636
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_73
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 634
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_74
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 585
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_75
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 584
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_76
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 589
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_77
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 592
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_78
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 595
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_79
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 595
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_80
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 595
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_81
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 595
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_82
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 595
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_83
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 595
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_84
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 595
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_85
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 595
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_86
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 595
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_87
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 593
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_88
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 572
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_89
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 570
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_90
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 548
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_91
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 553
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_92
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 554
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_93
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 556
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_94
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 556
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_95
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 553
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_96
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 553
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_97
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 553
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_98
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 553
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_99
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 553
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_100
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 553
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_101
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 553
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_102
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 525
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_103
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 507
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_104
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 502
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_105
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 521
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_106
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 507
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_107
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 514
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_108
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 513
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_109
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 513
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_110
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 509
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_111
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 515
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_112
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 516
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_113
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 516
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_114
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 517
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_115
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 517
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_116
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 517
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_117
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 516
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_118
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 516
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_119
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 517
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_120
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 465
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_121
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 454
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_122
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 466
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_123
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 475
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_124
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 467
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_125
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 467
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_126
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 474
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_127
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 468
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_128
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 468
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_129
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 468
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_130
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 469
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_131
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 469
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_132
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 469
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_133
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 470
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_134
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 471
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_135
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 471
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_136
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 471
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_137
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 471
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_138
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 442
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_139
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 443
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_140
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 425
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_141
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 434
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_142
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 430
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_143
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 421
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_144
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 438
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_145
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 425
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_146
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 424
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_147
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 424
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_148
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 424
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_149
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 431
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_150
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 431
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_151
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 431
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_152
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 431
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_153
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 431
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_154
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 431
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_155
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 403
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_156
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 365
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_157
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 389
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_158
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 385
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_159
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 393
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_160
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 394
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_161
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 401
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_162
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 392
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_163
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 389
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_164
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 387
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_165
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 387
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_166
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 387
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_167
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 387
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_168
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 387
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_169
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 387
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_170
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 387
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_171
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 387
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_172
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 377
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_173
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 352
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_174
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 375
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_175
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 379
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_176
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 344
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_177
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 343
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_178
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 343
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_179
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 346
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_180
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 356
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_181
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 354
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_182
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 354
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_183
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 354
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_184
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 354
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_185
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 354
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_186
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 354
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_187
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 354
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_188
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 354
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_189
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 311
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_190
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 322
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_191
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 311
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_192
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 304
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_193
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 329
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_194
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 333
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_195
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 323
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_196
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 321
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_197
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 320
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_198
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 320
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_199
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 318
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_200
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 320
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_201
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 322
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_202
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 322
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_203
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 321
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_204
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 320
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_205
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 312
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_206
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 302
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_207
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 298
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_208
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 279
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_209
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 270
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_210
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 266
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_211
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 283
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_212
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 287
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_213
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 290
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_214
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 288
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_215
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 287
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_216
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 289
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_217
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 287
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_218
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 287
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_219
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 288
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_220
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 289
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_221
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 289
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_222
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 290
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_223
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 247
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_224
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 249
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_225
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 250
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_226
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 261
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_227
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 252
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_228
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 255
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_229
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 253
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_230
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 254
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_231
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 258
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_232
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 254
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_233
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 254
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_234
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 254
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_235
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 254
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_236
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 254
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_237
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 254
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_238
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 254
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_239
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 222
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_240
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 229
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_241
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 227
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_242
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 237
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_243
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 241
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_244
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 221
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_245
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 227
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_246
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 221
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_247
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 221
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_248
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 221
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_249
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 221
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_250
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 221
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_251
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 222
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_252
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 217
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_253
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 233
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_254
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 214
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_255
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 205
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_256
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_257
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 179
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_258
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 180
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_259
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 183
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_260
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 188
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_261
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 188
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_262
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 191
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_263
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 196
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_264
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 189
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_265
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 182
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_266
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 188
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_267
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 195
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_268
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 188
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_269
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 200
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_270
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_271
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 201
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_272
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 201
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_273
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 201
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_274
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 182
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_275
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 193
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_276
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 193
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_277
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 192
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_278
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 192
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_279
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 193
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_280
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 144
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_281
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 147
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_282
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 156
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_283
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 159
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_284
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 161
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_285
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 156
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_286
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 149
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_287
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 157
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_288
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 163
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_289
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 155
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_290
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 167
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_291
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 168
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_292
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 156
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_293
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 155
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_294
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 155
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_295
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 155
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_296
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 149
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_297
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 142
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_298
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 160
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_299
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 159
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_300
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 119
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_301
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 118
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_302
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 106
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_303
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 119
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_304
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 113
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_305
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 125
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_306
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 123
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_307
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 116
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_308
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 124
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_309
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 132
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_310
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 122
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_311
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 134
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_312
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 135
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_313
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 123
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_314
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 121
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_315
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 120
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_316
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 122
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_317
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 110
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_318
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 105
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_319
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 126
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_320
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 126
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_321
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 84
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_322
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 80
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_323
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 97
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_324
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 89
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_325
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 90
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_326
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 83
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_327
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 91
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_328
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 100
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_329
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 89
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_330
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 101
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_331
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_332
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 89
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_333
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 89
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_334
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 65
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_335
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 65
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_336
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 94
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_337
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 94
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_338
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 49
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_339
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 54
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_340
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 55
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_341
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 48
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_342
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 51
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_343
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 67
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_344
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 52
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_345
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 57
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_346
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 50
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_347
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 58
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_348
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 68
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_349
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 56
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_350
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 68
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_351
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 56
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_352
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 56
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_353
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 57
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_354
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 61
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_355
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 28
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_356
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 26
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_357
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 24
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_358
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 21
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_359
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 17
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_360
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 24
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_361
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 17
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_362
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_363
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 35
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_364
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 23
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_365
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_366
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 23
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_367
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 21
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_368
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 23
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_369
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_370
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 13
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_371
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 10
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_372
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 28
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_373
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Soldiers_374
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

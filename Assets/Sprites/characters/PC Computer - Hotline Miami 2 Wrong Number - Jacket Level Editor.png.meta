@@ -1,0 +1,6176 @@
+fileFormatVersion: 2
+guid: 53d29b4436c61ba4e864632a08d0bdcf
+timeCreated: 1496655806
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_0
+    21300002: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_1
+    21300004: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_2
+    21300006: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_3
+    21300008: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_4
+    21300010: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_5
+    21300012: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_6
+    21300014: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_7
+    21300016: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_8
+    21300018: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_9
+    21300020: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_10
+    21300022: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_11
+    21300024: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_12
+    21300026: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_13
+    21300028: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_14
+    21300030: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_15
+    21300032: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_16
+    21300034: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_17
+    21300036: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_18
+    21300038: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_19
+    21300040: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_20
+    21300042: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_21
+    21300044: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_22
+    21300046: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_23
+    21300048: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_24
+    21300050: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_25
+    21300052: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_26
+    21300054: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_27
+    21300056: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_28
+    21300058: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_29
+    21300060: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_30
+    21300062: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_31
+    21300064: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_32
+    21300066: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_33
+    21300068: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_34
+    21300070: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_35
+    21300072: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_36
+    21300074: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_37
+    21300076: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_38
+    21300078: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_39
+    21300080: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_40
+    21300082: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_41
+    21300084: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_42
+    21300086: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_43
+    21300088: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_44
+    21300090: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_45
+    21300092: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_46
+    21300094: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_47
+    21300096: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_48
+    21300098: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_49
+    21300100: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_50
+    21300102: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_51
+    21300104: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_52
+    21300106: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_53
+    21300108: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_54
+    21300110: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_55
+    21300112: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_56
+    21300114: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_57
+    21300116: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_58
+    21300118: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_59
+    21300120: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_60
+    21300122: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_61
+    21300124: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_62
+    21300126: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_63
+    21300128: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_64
+    21300130: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_65
+    21300132: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_66
+    21300134: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_67
+    21300136: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_68
+    21300138: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_69
+    21300140: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_70
+    21300142: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_71
+    21300144: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_72
+    21300146: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_73
+    21300148: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_74
+    21300150: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_75
+    21300152: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_76
+    21300154: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_77
+    21300156: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_78
+    21300158: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_79
+    21300160: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_80
+    21300162: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_81
+    21300164: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_82
+    21300166: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_83
+    21300168: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_84
+    21300170: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_85
+    21300172: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_86
+    21300174: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_87
+    21300176: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_88
+    21300178: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_89
+    21300180: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_90
+    21300182: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_91
+    21300184: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_92
+    21300186: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_93
+    21300188: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_94
+    21300190: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_95
+    21300192: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_96
+    21300194: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_97
+    21300196: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_98
+    21300198: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_99
+    21300200: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_100
+    21300202: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_101
+    21300204: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_102
+    21300206: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_103
+    21300208: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_104
+    21300210: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_105
+    21300212: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_106
+    21300214: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_107
+    21300216: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_108
+    21300218: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_109
+    21300220: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_110
+    21300222: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_111
+    21300224: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_112
+    21300226: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_113
+    21300228: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_114
+    21300230: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_115
+    21300232: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_116
+    21300234: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_117
+    21300236: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_118
+    21300238: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_119
+    21300240: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_120
+    21300242: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_121
+    21300244: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_122
+    21300246: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_123
+    21300248: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_124
+    21300250: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_125
+    21300252: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_126
+    21300254: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_127
+    21300256: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_128
+    21300258: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_129
+    21300260: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_130
+    21300262: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_131
+    21300264: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_132
+    21300266: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_133
+    21300268: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_134
+    21300270: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_135
+    21300272: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_136
+    21300274: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_137
+    21300276: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_138
+    21300278: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_139
+    21300280: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_140
+    21300282: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_141
+    21300284: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_142
+    21300286: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_143
+    21300288: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_144
+    21300290: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_145
+    21300292: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_146
+    21300294: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_147
+    21300296: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_148
+    21300298: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_149
+    21300300: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_150
+    21300302: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_151
+    21300304: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_152
+    21300306: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_153
+    21300308: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_154
+    21300310: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_155
+    21300312: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_156
+    21300314: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_157
+    21300316: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_158
+    21300318: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_159
+    21300320: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_160
+    21300322: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_161
+    21300324: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_162
+    21300326: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_163
+    21300328: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_164
+    21300330: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_165
+    21300332: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_166
+    21300334: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_167
+    21300336: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_168
+    21300338: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_169
+    21300340: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_170
+    21300342: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_171
+    21300344: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_172
+    21300346: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_173
+    21300348: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_174
+    21300350: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_175
+    21300352: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_176
+    21300354: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_177
+    21300356: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_178
+    21300358: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_179
+    21300360: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_180
+    21300362: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_181
+    21300364: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_182
+    21300366: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_183
+    21300368: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_184
+    21300370: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_185
+    21300372: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_186
+    21300374: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_187
+    21300376: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_188
+    21300378: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_189
+    21300380: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_190
+    21300382: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_191
+    21300384: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_192
+    21300386: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_193
+    21300388: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_194
+    21300390: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_195
+    21300392: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_196
+    21300394: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_197
+    21300396: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_198
+    21300398: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_199
+    21300400: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_200
+    21300402: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_201
+    21300404: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_202
+    21300406: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_203
+    21300408: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_204
+    21300410: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_205
+    21300412: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_206
+    21300414: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_207
+    21300416: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_208
+    21300418: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_209
+    21300420: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_210
+    21300422: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_211
+    21300424: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_212
+    21300426: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_213
+    21300428: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_214
+    21300430: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_215
+    21300432: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_216
+    21300434: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_217
+    21300436: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_218
+    21300438: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_219
+    21300440: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_220
+    21300442: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_221
+    21300444: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_222
+    21300446: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_223
+    21300448: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_224
+    21300450: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_225
+    21300452: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_226
+    21300454: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_227
+    21300456: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_228
+    21300458: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_229
+    21300460: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_230
+    21300462: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_231
+    21300464: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_232
+    21300466: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_233
+    21300468: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_234
+    21300470: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_235
+    21300472: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_236
+    21300474: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_237
+    21300476: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_238
+    21300478: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_239
+    21300480: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_240
+    21300482: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_241
+    21300484: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_242
+    21300486: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_243
+    21300488: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_244
+    21300490: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_245
+    21300492: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_246
+    21300494: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_247
+    21300496: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_248
+    21300498: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_249
+    21300500: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_250
+    21300502: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_251
+    21300504: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_252
+    21300506: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_253
+    21300508: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_254
+    21300510: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_255
+    21300512: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_256
+    21300514: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_257
+    21300516: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_258
+    21300518: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_259
+    21300520: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_260
+    21300522: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_261
+    21300524: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_262
+    21300526: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_263
+    21300528: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_264
+    21300530: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_265
+    21300532: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_266
+    21300534: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_267
+    21300536: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_268
+    21300538: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_269
+    21300540: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_270
+    21300542: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_271
+    21300544: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_272
+    21300546: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_273
+    21300548: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_274
+    21300550: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_275
+    21300552: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_276
+    21300554: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_277
+    21300556: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_278
+    21300558: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_279
+    21300560: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_280
+    21300562: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_281
+    21300564: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_282
+    21300566: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_283
+    21300568: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_284
+    21300570: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_285
+    21300572: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_286
+    21300574: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_287
+    21300576: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_288
+    21300578: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_289
+    21300580: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_290
+    21300582: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_291
+    21300584: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_292
+    21300586: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_293
+    21300588: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_294
+    21300590: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_295
+    21300592: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_296
+    21300594: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_297
+    21300596: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_298
+    21300598: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_299
+    21300600: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_300
+    21300602: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_301
+    21300604: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_302
+    21300606: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_303
+    21300608: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_304
+    21300610: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_305
+    21300612: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_306
+    21300614: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_307
+    21300616: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_308
+    21300618: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_309
+    21300620: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_310
+    21300622: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_311
+    21300624: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_312
+    21300626: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_313
+    21300628: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_314
+    21300630: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_315
+    21300632: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_316
+    21300634: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_317
+    21300636: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_318
+    21300638: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_319
+    21300640: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_320
+    21300642: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_321
+    21300644: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_322
+    21300646: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_323
+    21300648: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_324
+    21300650: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_325
+    21300652: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_326
+    21300654: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_327
+    21300656: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_328
+    21300658: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_329
+    21300660: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_330
+    21300662: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_331
+    21300664: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_332
+    21300666: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_333
+    21300668: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_334
+    21300670: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_335
+    21300672: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_336
+    21300674: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_337
+    21300676: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_338
+    21300678: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_339
+    21300680: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_340
+    21300682: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_341
+    21300684: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_342
+    21300686: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_343
+    21300688: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_344
+    21300690: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_345
+    21300692: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_346
+    21300694: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_347
+    21300696: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_348
+    21300698: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_349
+    21300700: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_350
+    21300702: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_351
+    21300704: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_352
+    21300706: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_353
+    21300708: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_354
+    21300710: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_355
+    21300712: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_356
+    21300714: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_357
+    21300716: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_358
+    21300718: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_359
+    21300720: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_360
+    21300722: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_361
+    21300724: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_362
+    21300726: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_363
+    21300728: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_364
+    21300730: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_365
+    21300732: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_366
+    21300734: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_367
+    21300736: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_368
+    21300738: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_369
+    21300740: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_370
+    21300742: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_371
+    21300744: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_372
+    21300746: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_373
+    21300748: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_374
+    21300750: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_375
+    21300752: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_376
+    21300754: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_377
+    21300756: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_378
+    21300758: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_379
+    21300760: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_380
+    21300762: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_381
+    21300764: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_382
+    21300766: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_383
+    21300768: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_384
+    21300770: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_385
+    21300772: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_386
+    21300774: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_387
+    21300776: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_388
+    21300778: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_389
+    21300780: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_390
+    21300782: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_391
+    21300784: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_392
+    21300786: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_393
+    21300788: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_394
+    21300790: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_395
+    21300792: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_396
+    21300794: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_397
+    21300796: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_398
+    21300798: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_399
+    21300800: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_400
+    21300802: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_401
+    21300804: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_402
+    21300806: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_403
+    21300808: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_404
+    21300810: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_405
+    21300812: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_406
+    21300814: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_407
+    21300816: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_408
+    21300818: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_409
+    21300820: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_410
+    21300822: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_411
+    21300824: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_412
+    21300826: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_413
+    21300828: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_414
+    21300830: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_415
+    21300832: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_416
+    21300834: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_417
+    21300836: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_418
+    21300838: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_419
+    21300840: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_420
+    21300842: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_421
+    21300844: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_422
+    21300846: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_423
+    21300848: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_424
+    21300850: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_425
+    21300852: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_426
+    21300854: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_427
+    21300856: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_428
+    21300858: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_429
+    21300860: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_430
+    21300862: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_431
+    21300864: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_432
+    21300866: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_433
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 931
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 931
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 945
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 931
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 942
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_5
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 949
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_6
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 944
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_7
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 946
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_8
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 927
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 800
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_10
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 809
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 810
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_12
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 820
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 873
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 874
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_15
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 874
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_16
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 873
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_17
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 873
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_18
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 879
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_19
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 877
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_20
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 883
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 826
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_22
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 866
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_23
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 866
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_24
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 819
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_25
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 815
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_26
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 821
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_27
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 822
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_28
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 828
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_29
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 842
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5000166, y: -0.19520569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_30
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 816
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_31
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 802
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_32
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 824
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_33
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 807
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_34
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 809
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_35
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 807
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_36
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 807
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_37
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 804
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 746
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_39
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 772
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_40
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 769
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_41
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 773
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_42
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 773
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_43
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 772
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_44
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 772
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_45
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 772
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_46
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 770
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_47
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 770
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_48
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 770
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_49
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 785
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_50
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 711
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 700
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_52
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 732
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_53
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 737
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_54
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 737
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_55
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 737
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_56
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 738
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_57
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 738
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_58
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 738
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_59
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 738
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_60
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 739
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_61
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 739
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_62
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 739
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_63
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 739
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_64
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 753
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_65
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 735
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_66
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 700
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_67
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 694
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_68
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 697
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_69
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 703
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_70
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 702
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_71
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 702
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_72
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 702
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_73
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 702
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_74
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 701
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_75
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 701
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_76
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 701
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_77
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 703
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_78
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 703
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_79
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 677
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 644
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_81
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 651
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_82
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 655
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_83
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 655
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_84
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 654
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_85
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 654
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_86
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 654
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_87
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 654
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_88
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 654
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_89
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 651
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_90
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 655
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_91
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 655
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_92
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 668
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_93
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 568
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_94
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 565
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_95
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 621
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_96
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 632
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_97
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 621
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_98
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 621
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_99
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 621
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_100
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 618
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_101
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 622
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_102
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 622
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_103
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 621
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_104
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 621
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_105
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 621
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_106
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 622
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.32689667, y: 0.47038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_107
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 622
+        width: 41
+        height: 17
+      alignment: 9
+      pivot: {x: 0.2666358, y: 0.52962357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_108
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 618
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_109
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 590
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_110
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 592
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_111
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 588
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_112
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 589
+        width: 42
+        height: 16
+      alignment: 9
+      pivot: {x: 0.24821109, y: 0.53147507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_113
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 590
+        width: 33
+        height: 17
+      alignment: 9
+      pivot: {x: 0.34740102, y: 0.5000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_114
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 589
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.32689476, y: 0.5000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_115
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 589
+        width: 41
+        height: 17
+      alignment: 9
+      pivot: {x: 0.27891725, y: 0.52962357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_116
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 589
+        width: 42
+        height: 16
+      alignment: 9
+      pivot: {x: 0.28418115, y: 0.56295013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_117
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 589
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.32689476, y: 0.52962357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_118
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 589
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_119
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 589
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_120
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 589
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_121
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 589
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_122
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 589
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_123
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 602
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_124
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 565
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_125
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 576
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_126
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 569
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_127
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 525
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_128
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 543
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_129
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 555
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_130
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 536
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_131
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 556
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_132
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 556
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_133
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 556
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_134
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 556
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_135
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 556
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_136
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 556
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_137
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 556
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_138
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 556
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_139
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 556
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_140
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 556
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_141
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 556
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_142
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 522
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_143
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 523
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_144
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 523
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_145
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 523
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_146
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 523
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_147
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 523
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_148
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 523
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_149
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 523
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_150
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 523
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_151
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 523
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_152
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 523
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_153
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 523
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_154
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 535
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_155
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 462
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_156
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 463
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_157
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 503
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_158
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 500
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_159
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 489
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_160
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 495
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_161
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 490
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_162
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 490
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_163
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 489
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_164
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 490
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_165
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 492
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_166
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 490
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_167
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 491
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_168
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 490
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_169
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 492
+        width: 41
+        height: 13
+      alignment: 9
+      pivot: {x: 0.3303848, y: 0.49022263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_170
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 492
+        width: 42
+        height: 13
+      alignment: 9
+      pivot: {x: 0.2618045, y: 0.49022263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_171
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 491
+        width: 42
+        height: 15
+      alignment: 9
+      pivot: {x: 0.23068964, y: 0.5097797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_172
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 503
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_173
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 464
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_174
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 464
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_175
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 452
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_176
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 453
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_177
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 452
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_178
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 457
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_179
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 457
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_180
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 459
+        width: 42
+        height: 13
+      alignment: 9
+      pivot: {x: 0.2210112, y: 0.45672372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_181
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 459
+        width: 41
+        height: 13
+      alignment: 9
+      pivot: {x: 0.25987577, y: 0.47836068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_182
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 459
+        width: 40
+        height: 14
+      alignment: 9
+      pivot: {x: 0.2538727, y: 0.45981488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_183
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 459
+        width: 39
+        height: 15
+      alignment: 9
+      pivot: {x: 0.27641258, y: 0.48124593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_184
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 459
+        width: 40
+        height: 14
+      alignment: 9
+      pivot: {x: 0.2679367, y: 0.5200915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_185
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 457
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_186
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 457
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_187
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 456
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_188
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 457
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_189
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 470
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_190
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 424
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_191
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 417
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_192
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 426
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_193
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 424
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_194
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 424
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_195
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 424
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_196
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 424
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_197
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 424
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_198
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 424
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_199
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 424
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_200
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 424
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_201
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 424
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_202
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 424
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_203
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 424
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_204
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 436
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_205
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 384
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_206
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 415
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_207
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 403
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_208
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 328
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_209
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 327
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_210
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 391
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_211
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 377
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_212
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 393
+        width: 45
+        height: 14
+      alignment: 9
+      pivot: {x: 0.249509, y: 0.53096664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_213
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 391
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_214
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 391
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_215
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 388
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_216
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 382
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_217
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 388
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_218
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 386
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_219
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 386
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_220
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 383
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_221
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 381
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_222
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 381
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_223
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 381
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_224
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 381
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_225
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 325
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_226
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 356
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_227
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 341
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_228
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 357
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_229
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 336
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_230
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 358
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_231
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 358
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_232
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 359
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_233
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 350
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_234
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 339
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_235
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 342
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_236
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 343
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_237
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 343
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_238
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 343
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_239
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 341
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_240
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_241
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 313
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_242
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 324
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_243
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 325
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_244
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 325
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_245
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 325
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_246
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 307
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_247
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 307
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_248
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 309
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_249
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 307
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_250
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 309
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_251
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 309
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_252
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 310
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_253
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 309
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_254
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 309
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_255
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 309
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_256
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 310
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_257
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 309
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_258
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 214
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_259
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 290
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_260
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 303
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_261
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 291
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_262
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 292
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_263
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 292
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_264
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 292
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_265
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 281
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_266
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 199
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_267
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 264
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_268
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 262
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_269
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 274
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_270
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 276
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_271
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 270
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_272
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 273
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_273
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 273
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_274
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 273
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_275
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 273
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_276
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 273
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_277
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 273
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_278
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 273
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_279
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 273
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_280
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 254
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_281
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 258
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_282
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 248
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_283
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 259
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_284
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 259
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_285
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 240
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_286
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 241
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_287
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 243
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_288
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 233
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_289
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 242
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_290
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 242
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_291
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 242
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_292
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 242
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_293
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 242
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_294
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 242
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_295
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 242
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_296
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 242
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_297
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 231
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_298
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 221
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_299
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 225
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_300
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 208
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_301
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 226
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_302
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 226
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_303
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 217
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_304
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 210
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_305
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 209
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_306
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 209
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_307
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 209
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_308
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 209
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_309
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 209
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_310
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 209
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_311
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 209
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_312
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 209
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_313
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 194
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_314
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 189
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_315
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 193
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_316
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 193
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_317
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 199
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_318
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 208
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_319
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 196
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_320
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 172
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_321
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 173
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_322
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 167
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_323
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 158
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_324
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 166
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_325
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 174
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_326
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 177
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_327
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 159
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_328
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 176
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_329
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 176
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_330
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 176
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_331
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 176
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_332
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 176
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_333
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 176
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_334
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 176
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_335
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 176
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_336
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 89
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_337
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 86
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_338
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 151
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_339
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 160
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_340
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 160
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_341
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 160
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_342
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 141
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_343
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 144
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_344
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 143
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_345
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 143
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_346
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 143
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_347
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 143
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_348
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 141
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_349
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 141
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_350
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 141
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_351
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 141
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_352
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 102
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_353
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 124
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_354
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 102
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_355
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 127
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_356
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 124
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_357
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 127
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_358
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 127
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_359
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 117
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_360
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 108
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_361
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 108
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_362
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 111
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_363
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 122
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_364
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 110
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_365
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 110
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_366
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 110
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_367
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 108
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_368
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 110
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_369
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 111
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_370
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 111
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_371
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 111
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_372
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 93
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_373
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 89
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_374
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 94
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_375
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 94
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_376
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 76
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_377
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 63
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_378
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 75
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_379
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 78
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_380
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 85
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_381
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 77
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_382
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 77
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_383
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 77
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_384
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 75
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_385
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 78
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_386
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 78
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_387
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 77
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_388
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 59
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_389
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 59
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_390
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 59
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_391
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 60
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_392
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 49
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_393
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 61
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_394
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 61
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_395
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 35
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_396
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 40
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_397
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 44
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_398
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 48
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_399
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 44
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_400
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 44
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_401
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 44
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_402
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 42
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_403
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 45
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_404
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 45
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_405
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 27
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_406
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 14
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_407
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 27
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_408
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 35
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_409
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 14
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_410
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 23
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_411
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 27
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_412
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 28
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_413
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 28
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_414
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 22
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_415
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 11
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_416
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 11
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_417
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 9
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_418
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 8
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_419
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_420
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_421
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_422
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 8
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_423
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 6
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_424
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_425
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 6
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_426
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 7
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_427
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 3
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_428
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 9
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_429
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 11
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_430
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 11
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_431
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 11
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_432
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 12
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Hotline Miami 2 Wrong Number - Jacket Level Editor_433
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 12
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
